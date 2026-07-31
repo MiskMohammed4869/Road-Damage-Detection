@@ -127,3 +127,5 @@ pip install gradio
 pip install opencv-python
 pip install pandas
 ```
+<img width="1536" height="1024" alt="img" src="https://github.com/user-attachments/assets/3e021ba3-d493-4315-95db-a7957b26de3b" />
+
